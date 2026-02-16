@@ -3,7 +3,7 @@ This project presents an interactive HR Attrition Dashboard built in Tableau to 
 
 The dataset was cleaned and transformed to ensure consistency in fields such as age groups, departments, job roles, salary bands, and years at the company. Calculated fields were created to determine attrition rate, employee distribution, and key performance indicators (KPIs).
 
-Key Metrics Analyzed:
+# Key Metrics Analyzed:
 
 Overall Attrition Rate (%)
 
@@ -21,7 +21,7 @@ Attrition by Years at Company
 
 Gender-based Attrition Comparison
 
-Dashboard Insights:
+# Dashboard Insights:
 
 Identifies departments and job roles with the highest turnover.
 
